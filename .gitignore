@@ -1,0 +1,6 @@
+*.o
+*.out
+String_pthread
+list-forming
+my_list-forming
+producer_consumer
